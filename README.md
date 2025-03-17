@@ -6,11 +6,11 @@
 This project aims to perform a detailed analysis of Netflix's movies and TV shows data using SQL. The objective is to derive actionable insights and answer key business questions that can inform decision-making. By leveraging the dataset, patterns in content distribution, viewership trends, and other factors influencing user engagement were explored. The findings provide valuable information for stakeholders seeking to optimize content strategy and enhance user experience.
 
 ## Objectives
-•	Analyse the distribution of content types (movies vs TV shows).
-•	Identify the most popular movies and TV shows.
-•	List and analyse content based on release years, countries, and duration.
-•	List percentage of content added in a specific country in each year
-•	Explore and categorize content based on specific criteria and keywords.
+1. Analyse the distribution of content types (movies vs TV shows).
+2. Identify the most popular movies and TV shows.
+3. List and analyse content based on release years, countries, and duration.
+4. List percentage of content added in a specific country in each year
+5. Explore and categorize content based on specific criteria and keywords.
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
@@ -247,9 +247,9 @@ GROUP BY 1
 This analysis offers valuable insights into Netflix's content, helping to shape content strategy and guide decision-making.
 
 ## Author – Abhik 
-This is the first project in my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or are interested in collaborating, feel free to reach out.
+This is the first project in my portfolio, showcasing the SQL skills essential for data analysis. If you have any questions, feedback, or are interested in collaborating, feel free to reach out.
 
-**LinkedIn**: [Check my profile] ()
+**LinkedIn**: [Check my profile] (linkedin.com/in/abhik-kar-397b09130)
 
 
 

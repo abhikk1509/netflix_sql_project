@@ -249,8 +249,8 @@ This analysis offers valuable insights into Netflix's content, helping to shape 
 ## Author – Abhik 
 This is the first project in my portfolio, showcasing the SQL skills essential for data analysis. If you have any questions, feedback, or are interested in collaborating, feel free to reach out.
 
-**LinkedIn**: [Check my profile] (linkedin.com/in/abhik-kar-397b09130)
-
+**LinkedIn**: (linkedin.com/in/abhik-kar-397b09130)
+**email:** abhik666.ak@gmail.com
 
 
 
